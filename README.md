@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slakshmi-m
 - 👀 I’m interested in learning new skills, technical as well as non-technical
-- 🌱 I’m currently a third year Btech Electronics and Communication Student
+- 🌱 I’m currently a final year Btech Electronics and Communication Student
 
 
 <!---
